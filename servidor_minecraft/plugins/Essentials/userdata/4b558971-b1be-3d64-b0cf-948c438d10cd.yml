@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.60.243.175
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733018091235
+  login: 1733018059964
+money: '0'
+last-account-name: papuangel
+logoutlocation:
+  world: 799dc548-b871-469a-9774-e380755f4544
+  world-name: world
+  x: 9.202461394091964
+  y: 85.0
+  z: 9.729013182144588
+  yaw: 37.1583251953125
+  pitch: 12.823041915893555
